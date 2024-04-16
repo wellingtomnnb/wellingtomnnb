@@ -25,7 +25,7 @@
 
 
 ### 🏢 Atuação Profissional
-- 🧮 **Data Scientist** na [Alertrack](https://alertrack.com.br/)
+- 🧮 **Data Scientist** na [Alertrack Soluções](https://alertrack.com.br/)
 - ⏳ Pós graduando em Engenharia de Software na [FAVENI](https://faveni.edu.br/)
 - 🎓 Bacharel em Sistemas de Informação na [UCL](https://www.ucl.br/)
 
