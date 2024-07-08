@@ -1,6 +1,6 @@
 ### Olá! Me chamo Wellington Braga <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
-<table style="border: 1px solid gold; border-collapse: collapse;">
+<table style="border: 1px solid gold; border-collapse: collapse;"> 
   <tr>
     <td align="center">
       <a href="https://github.com/wellingtomnnb">
