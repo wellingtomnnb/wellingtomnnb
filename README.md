@@ -1,4 +1,9 @@
-### Olá! Me chamo Wellington Braga <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+
+### 🏢 Atuação Profissional
+- 🧮 **Data Scientist** na [Alertrack Soluções](https://alertrack.com.br/)
+- ⏳ Pós graduando em Engenharia de Software na [FAVENI](https://faveni.edu.br/)
+- 🎓 Bacharel em Sistemas de Informação na [UCL](https://www.ucl.br/)
+
 
 <table style="border: 1px solid gold; border-collapse: collapse;"> 
   <tr>
@@ -24,10 +29,6 @@
 </table>
 
 
-### 🏢 Atuação Profissional
-- 🧮 **Data Scientist** na [Alertrack Soluções](https://alertrack.com.br/)
-- ⏳ Pós graduando em Engenharia de Software na [FAVENI](https://faveni.edu.br/)
-- 🎓 Bacharel em Sistemas de Informação na [UCL](https://www.ucl.br/)
 
 ### Técnologias 
 
@@ -63,27 +64,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtomnnb&layout=donut-vertical&&theme=dracula)](https://github.com/wellingtomnnb/github-readme-stats)  
 
-
-### 🗂️ Principais Repositórios:
-<a href="https://github.com/wellingtomnnb/legislator_scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=legislator_scraping&&theme=dracula"/>
-</a></br></br>
-<a href="https://github.com/wellingtomnnb/python_object_oriented">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=python_object_oriented&&theme=dracula"/>
-</a></br></br>
-<a href="https://github.com/wellingtomnnb/sentiment-analisys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=sentiment-analisys&&theme=dracula"/>
-</a></br></br>
-<a href="https://github.com/wellingtomnnb/graph_tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=graph_tools&&theme=dracula"/>
-</a></br></br>
-<a href="https://github.com/wellingtomnnb/ServerWebSocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=serverwebsocket&&theme=dracula"/>
-</a></br></br>
-<a href="https://github.com/wellingtomnnb/clientwebsocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtomnnb&repo=clientwebsocket&&theme=dracula"/>
-</a>
-
-### 📊 Estatísticas no GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtomnnb\&include_all_commits=true&theme=dracula)
---
