@@ -62,5 +62,3 @@
 ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtomnnb&layout=donut-vertical&&theme=dracula)](https://github.com/wellingtomnnb/github-readme-stats)  
-
